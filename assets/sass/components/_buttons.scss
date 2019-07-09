@@ -1,1 +1,31 @@
 
+.btn {
+  font-family: $roboto;
+  font-weight: $light;
+  font-size: $small;
+  border-radius: 80px;
+}
+
+.button {
+  margin-bottom: 150px;
+}
+
+.button__share {
+  background-color: $nickel;
+  color: $white;
+
+  &:hover {
+    background-color: $platinum;
+    color: $white;
+  }
+}
+
+.button__comentar {
+  background-color: $nickel;
+  color: $white;
+
+  &:hover {
+    background-color: $platinum;
+    color: $white;
+  }
+}

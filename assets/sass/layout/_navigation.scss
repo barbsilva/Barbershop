@@ -1,0 +1,19 @@
+.navigation{
+  background-color: $platinum;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-rounded-left{
+  border-top-left-radius: 5rem !important;
+  border-bottom-left-radius: 5em !important;
+}
+
+.my-rounded-right{
+  border-top-right-radius: 5rem !important;
+  border-bottom-right-radius: 5em !important;
+}
+
+.page-item active{
+  background-color: $eerie-black;
+}

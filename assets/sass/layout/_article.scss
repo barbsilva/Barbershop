@@ -1,0 +1,46 @@
+.article{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.article__image {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+}
+
+.line{
+width: 100%;
+border-width: 1px;
+border-color:$light-gray;
+}
+
+h3{
+  font-family: $playfair;
+  font-size: $large;
+  color: $raisin-black;
+  font-style: italic;
+}
+
+h4{
+  font-family: $roboto;
+  font-size: $small;
+  color: $spanish-pink;
+  font-weight: $light;
+}
+
+.article__text--description{
+  color: $nickel;
+  margin: 0;
+  margin-top: 4%;
+}
+
+.article__text__tittles{
+  margin: 0;
+  margin-top: 2%;
+}
+
+.article__text--description{
+  text-align: left;
+  line-height: 2.5;
+}

@@ -1,0 +1,27 @@
+.section__date {
+  font-family: $playfair;
+  font-size: $medium;
+  font-weight: $regular;
+  color: $nickel;
+  padding-top: 50px;
+
+}
+
+.section__text {
+  color: $nickel;
+  line-height: 2.5;
+  font-family: $roboto;
+  font-size: $small;
+  &-emphasis{
+    color: $ruddy-pink;
+  }
+}
+
+.section__share{
+  padding-top: 10px;
+}
+
+.section{
+  width: 80vw;
+  margin: 50px auto;
+}

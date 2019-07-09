@@ -1,9 +1,12 @@
-.nav{
-  padding-top: 1rem;
-  padding-left: 2rem;
-  padding-bottom: 1rem;
+.navbar__color{
+  background-color:$eerie-black;
 }
 
-.nav__log{
-  width: 120px;
+.nav-link{
+  color:$white;
+}
+
+
+.current{
+  color:$ruddy-pink;
 }
